@@ -21,7 +21,7 @@
   	<header>
   	<div class="wrapper">
 			<div class="content">
-				<h1>Passion voyage !</h1>
+				<h1>Passion voyages !</h1>
 				<p>Découvrez comment voyager en toute simplicité</p>
 			</div>	
   </div>
